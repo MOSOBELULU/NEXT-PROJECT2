@@ -1,0 +1,7 @@
+{
+    "products" : [
+        {"id": "p1", "title": "Lulu", "description": "call me Lulugna"},
+        {"id": "p2", "title": "Tshedi", "description": "Tshetso"},
+        {"id": "p3", "title": "Tshegetso", "description": "Tshegetso!"}
+    ]
+}
